@@ -395,5 +395,5 @@ Kola: 4648 | seed=39 | 7/39 | grupa12
 
 === pravilo → next (grupa 12) ===
 rule: {'last_draw': [3, 7, 12, 13, 18, 24, 29], 'target_sum': 140.43, 'H_numbers': 5.2844, 'KL_uniform': 0.001034}
-next: [2, 11, 21, 23, 26, 30, 39]
+next: [2, x, 21, y, 26, z, 39]
 """
